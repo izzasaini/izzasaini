@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @izzasaini
-- 👀 I’m interested in data analysis, manipulation, and visualization 
+- 👀 I’m interested in strengthening responses by thoroughly analyzing and interpreting quantitative data. 
+-    Im able to analyze and visualize data
 - 🌱 I’m currently learning SPSS and Stata
 
 
